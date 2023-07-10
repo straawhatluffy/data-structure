@@ -1,0 +1,10 @@
+def sorting(nums):
+for i in range(len(nims)-1,0,-1):
+for j in range(i):
+if nums[j]>num[j=1];
+temp=nums[j]
+num[j]=numsp[j=i]:
+nums[j=1]=temp
+nums=[5,8,4,12,1]
+sort(nums)
+print(nums)
