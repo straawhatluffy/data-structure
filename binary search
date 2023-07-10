@@ -1,0 +1,20 @@
+def binary search(array,n):
+low=0
+high=len(arr)-1
+while low<=high:
+mid=(high+low)//2
+if arr[mid]<n:
+low=mid+1
+elif arr[mid]
+high=mid-1
+else;
+return mid
+return -1
+ar=[4,7,9,16,20,25,]
+n=7
+r=binary_search(arr,n)
+if!=-1
+print("element found at ",str())
+else:
+print("element is not found")
+    
