@@ -1,0 +1,10 @@
+def linear search(list1,value)
+for i in range(len(len(list1)):
+if list 1[i]==value:
+return-1
+list1=[21,65,7,30,132,72,17,54]
+x=int(input("enter the value tpo search/n")
+index=linera search==-1
+print("search completed! element not found")
+else:
+print("search completed element found at + str (index)")
